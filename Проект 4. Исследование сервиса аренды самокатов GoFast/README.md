@@ -25,4 +25,4 @@
 
 ## Используемые библиотеки
 
-*pandas*, *numpy*, *seaborn*, *matplotlib*, *scipy*
+*pandas*, *numpy*, *seaborn*, *matplotlib*, *math*, *scipy*
